@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-besley: Besley;
+  --font-barlow: Barlow;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #3c1212;
+  --color-gainsboro: #d9d9d9;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
